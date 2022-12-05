@@ -1,0 +1,12 @@
+F:\Repos\NotificationHub\NotificationHub.Domain\bin\Debug\net6.0\NotificationHub.Domain.deps.json
+F:\Repos\NotificationHub\NotificationHub.Domain\bin\Debug\net6.0\NotificationHub.Domain.dll
+F:\Repos\NotificationHub\NotificationHub.Domain\bin\Debug\net6.0\NotificationHub.Domain.pdb
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.csproj.AssemblyReference.cache
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.AssemblyInfoInputs.cache
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.AssemblyInfo.cs
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.csproj.CoreCompileInputs.cache
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.dll
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\refint\NotificationHub.Domain.dll
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\NotificationHub.Domain.pdb
+F:\Repos\NotificationHub\NotificationHub.Domain\obj\Debug\net6.0\ref\NotificationHub.Domain.dll

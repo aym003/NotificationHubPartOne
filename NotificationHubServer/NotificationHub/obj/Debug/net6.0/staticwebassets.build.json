@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "heFtS1eCERkhG4MfkenRKtHjqRIPN7hpP+bXu7H/vyk=",
+  "Source": "NotificationHub.API",
+  "BasePath": "_content/NotificationHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

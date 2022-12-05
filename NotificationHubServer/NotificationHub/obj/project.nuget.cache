@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4n+1MnfW3smj2ShuV4PvVZFZH8NRu8sG9y/ddgcHJJyJuPeT8lXPfW97c8HzxF/AaqsVgUN7/taaF/0Q2rCVWA==",
+  "success": true,
+  "projectFilePath": "F:\\Repos\\NotificationHub\\NotificationHub\\NotificationHub.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASUS_PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

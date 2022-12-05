@@ -1,0 +1,19 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #00b09b;
+    color: white;
+    font-size: 30px;
+  }
+  .border {
+	font-size: 1.6rem;
+	display: grid;
+	place-items: center;
+	min-height: 200px;
+	border: 8px solid;
+	padding: 1rem;
+}
+
+.full {
+	border-image: linear-gradient(180deg, #00b09b, #96c93d) 1;
+}
